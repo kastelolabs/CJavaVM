@@ -1,4 +1,4 @@
 module CJavaVM [system] {
-    header "jni.h"
+    header "./jni.h"
     export *
 }
